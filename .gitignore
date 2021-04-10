@@ -1,0 +1,12 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+db.sqlite3
+.DS_Store
+*.log
+*.pot
+*.bak
+*.py[cod]
+*$py.class
+.env

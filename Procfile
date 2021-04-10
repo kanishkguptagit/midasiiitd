@@ -1,0 +1,1 @@
+web: gunicorn tph.wsgi --log-file -
